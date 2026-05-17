@@ -477,8 +477,8 @@ section {
 .figma-color {
   color: rgb(82, 174, 205);
 }
-.git-color {
-  color: var(--primary);
+.typescript-color {
+  color: blue;
 }
 .skill-name {
   font-size: 1.1rem;
